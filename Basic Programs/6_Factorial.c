@@ -1,58 +1,29 @@
-/*
-	Find the factorial of a number
-	Author 			: 		Krishna Teja G S
-	Repository		:		github.com/packetprep/coding-questions
-	Website			: 		packetprep.com
-*/
-
-#include<stdio.h>
-int findFactorial(int );
 
 
+#include <stdio.h>
+int findFactorial(int);
 
-int main(){
+int main()
+{
 
-	int number,factorial;
+	int number, factorial;
 
 	printf("Enter a positive integer: ");
-	scanf("%d",&number);
+	scanf("%d", &number);
 
 	factorial = findFactorial(number);
-	printf("The Factorial of the number %d is : %d \n",number, factorial);
-	
-
+	printf("The Factorial of the number %d is : %d \n", number, factorial);
 }
 
-int findFactorial(int n){
-	
-	int i,factorial=1;
+int findFactorial(int n)
+{
 
-	for(i=1;i<=n;i++)
+	int i, factorial = 1;
+
+	for (i = 1; i <= n; i++)
 	{
 		factorial = factorial * i;
 	}
-	
+
 	return factorial;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

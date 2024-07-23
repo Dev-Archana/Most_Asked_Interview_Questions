@@ -1,23 +1,10 @@
-/*
-	Print hello world without semicolon
-	Author 			: 		Krishna Teja G S
-	Repository		:		github.com/packetprep/coding-questions
-	Website			: 		packetprep.com
-*/
+#include <stdio.h>
 
-#include<stdio.h>
+int main()
+{
 
-int main(){
-
-	if(printf("Hello World\n")){
+	if (printf("Hello World\n"))
+	{
 		return 0;
 	}
-
 }
-
-
-
-
-
-
-
