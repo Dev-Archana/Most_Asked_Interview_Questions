@@ -44,6 +44,13 @@ https://github.com/packetprep/coding-questions/blob/master/Arrays/6_LargestSumCo
 7. [Find the frequency of numbers in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c)
 8. [Program to separate Even and Odd numbers in an array ](https://github.com/packetprep/coding-questions/blob/master/Arrays/8_SeparateEvenOddInArray.c ) 
 
+
+**Hacker Rank Questions:**
+1.[The maximum possible value of  that is also  is , so we print  on first line.
+
+The maximum possible value of  that is also  is , so we print  on second line.
+
+The maximum possible value of  that is also  is , so we print  on third line.](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/BitwiseOperators.c)
 ---
 
 Together we can make this repository awesome :thumbsup:
