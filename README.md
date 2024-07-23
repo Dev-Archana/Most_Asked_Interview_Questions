@@ -47,7 +47,24 @@ https://github.com/packetprep/coding-questions/blob/master/Arrays/6_LargestSumCo
 
 **Hacker Rank Questions:**
 ------------------------
-1. [Find the smallest and Largest number in the array](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/BitwiseOperators.c)
+1. [Print the maximum values for the and, or and xor comparisons, each on a separate line.](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/BitwiseOperators.c)
+2. [print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
+If , print Greater than 9.](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/ConditionalStatementsinC.c)
+3. [print the English representation of it in lowercase. That is "one" for , "two" for , and so on.
+Else if  and it is an even number, then print "even".
+Else if  and it is an odd number, then print "odd".](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/ForLoopInC.c)
+4. [Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/FunctionInC.c)
+5. [Print a pattern of numbers](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/LoopsPrintingPatternUsingLoops.c)
+6. [Complete the function void update(int *a,int *b). It receives two integer pointers, int* a and int* b. Set the value of  to their sum, and  to their absolute difference. There is no return value, and no return statement is needed.
+](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/PointersInC.c)
+7. [Strings1DArraysinC](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/Strings1DArraysinC.c)
+8. [StringsArrayReversal](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/StringsArrayReversal.c)
+9. [Given a string, , consisting of alphabets and digits, find the frequency of each digit in the given string.
+](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/StringsDigitFrequency.c)
+10. [take two numbers of int data type, two numbers of float data type as input and output their sum:
+](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/SumAndDifferenceOfTwoVariable.c)
+10. [Given a five digit integer, print the sum of its digits.](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/SumofDigitsofaFiveDigitNumber.c)
 ---
 
 Together we can make this repository awesome :thumbsup:
