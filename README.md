@@ -65,6 +65,14 @@ Else if  and it is an odd number, then print "odd".](https://github.com/Dev-Arch
 10. [take two numbers of int data type, two numbers of float data type as input and output their sum:
 ](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/SumAndDifferenceOfTwoVariable.c)
 10. [Given a five digit integer, print the sum of its digits.](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/SumofDigitsofaFiveDigitNumber.c)
+11. [Programs to print different patterns as given below.
+Rectangle
+Hallow rectangle
+Left angle triangle
+Right angle triangle
+Rambus
+Letters B, S, T, I, L, H, D, P, O, U, 7, 9, etc.
+](https://github.com/Dev-Archana/Most_Asked_Interview_Questions/blob/main/Pattern1.c)
 ---
 
 Together we can make this repository awesome :thumbsup:
